@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Secrets
+.env
+*.env
+
+# Raw Amazon Reviews 2023 data
+data/raw/
+
+# Large intermediate processing files
+data/processed/merit_engine.duckdb
+data/processed/reviews_clean/
+data/processed/review_sentiment/
+
+# OS
+.DS_Store
+Thumbs.db

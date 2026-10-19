@@ -1,0 +1,8 @@
+{
+  "name": "Geo-Gap Analyzer",
+  "description": "Generative Engine Optimization (GEO) gap analysis platform comparing ground-truth consumer merit from millions of reviews against LLM recommendation visibility across personas and intents.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
